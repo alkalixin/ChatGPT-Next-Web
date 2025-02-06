@@ -7,7 +7,7 @@ const isApp = !!getClientConfig()?.isApp;
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: '',
+    Unauthorized: '未授权',
   },
   Auth: {
     Return: "返回",
